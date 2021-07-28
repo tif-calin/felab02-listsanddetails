@@ -1,10 +1,10 @@
 import React from 'react';
-import { Router, Switch, Route, Redirect } from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import ListPage from '../../containers/ListPage';
 import DetailPage from '../../containers/DetailPage';
 
 export default function App() {
-  return <Router className="App">
+  return <BrowserRouter className="App">
     <main>
       <Switch>
 
@@ -24,5 +24,5 @@ export default function App() {
 
       </Switch>
     </main>
-  </Router>;
+  </BrowserRouter>;
 }
