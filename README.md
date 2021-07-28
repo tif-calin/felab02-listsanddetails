@@ -1,6 +1,6 @@
 # lists and details
 the goals of this lab are to:
- - [ ] get a list of things from an API
+ - [x] get a list of things from an API
  - [ ] display in a list on the homepage
  - [ ] clicking on an item will take you to a detail page with more info
  - [ ] use react router

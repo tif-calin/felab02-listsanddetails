@@ -15,7 +15,7 @@ export default function App() {
           <ListPage {...routerProps} />
         )}/>
 
-        <Route exact path="/list/:id" render={routerProps => (
+        <Route exact path="/list/:coreId" render={routerProps => (
           <DetailPage {...routerProps} />
         )}/>
         */}
