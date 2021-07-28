@@ -15,4 +15,5 @@ jobs:
     - run: npm ci
     - run: npm test
       env:
-        CI: true
+        CI: true,
+        CORE_API_URL: https://core.ac.uk:443/api-v2
