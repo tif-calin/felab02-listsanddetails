@@ -2,9 +2,10 @@ import React from 'react';
 import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import ListPage from '../../containers/ListPage';
 import DetailPage from '../../containers/DetailPage';
+import styles from './App.css';
 
 export default function App() {
-  return <BrowserRouter className="App">
+  return <BrowserRouter className={styles.App}>
     <main>
       <Switch>
 
