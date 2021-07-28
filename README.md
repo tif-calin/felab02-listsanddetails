@@ -9,4 +9,4 @@ the goals of this lab are to:
 ## useful links
  - [demo and lab instructions](https://github.com/alchemycodelab/alchemy-fsjs-june-2021/tree/main/05_react/02_lists)
  - [canvas assignment](https://canvas.instructure.com/courses/3106948/assignments/23310045?module_item_id=49574531)
-- [this repo](https://github.com/tif-calin/felab02-listsanddetails)
+ - [this repo](https://github.com/tif-calin/felab02-listsanddetails)
