@@ -4,7 +4,7 @@ the goals of this lab are to:
  - [ ] display in a list on the homepage
  - [ ] clicking on an item will take you to a detail page with more info
  - [ ] use react router
- - [ ] use container/presentation pattern 
+ - [x] use container/presentation pattern 
 
 ## useful links
  - [demo and lab instructions](https://github.com/alchemycodelab/alchemy-fsjs-june-2021/tree/main/05_react/02_lists)
