@@ -42,27 +42,7 @@
       "error",
       {
         "before": true,
-        "after": true,
-        "overrides": {
-          "do": {
-            "after": false
-          },
-          "for": {
-            "after": false
-          },
-          "if": {
-            "after": false
-          },
-          "switch": {
-            "after": false
-          },
-          "while": {
-            "after": false
-          },
-          "catch": {
-            "after": false
-          }
-        }
+        "after": true
       }
     ],
     "arrow-spacing": ["error", { "before": true, "after": true }],
